@@ -25,3 +25,14 @@ Now we live in the digital world. That's why my type of activity hasn't future. 
 + Git, GitHub.
 
 - - - - -
+## Code example
+
+```javascript
+
+function sum (a, b) {        
+    return a+b;  
+}  
+function multyply (a;b) {      
+    return a*b;  
+}  
+``
