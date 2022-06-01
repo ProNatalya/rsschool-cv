@@ -45,3 +45,10 @@ function multyply (a;b) {
   + [HTML Academy](https://htmlacademy.ru/intensive/htmlcss)
 
 - - - - -
+## Languages
+
++ English
+  + Pre-Intermediate
+
++ Russian
+  + Native
