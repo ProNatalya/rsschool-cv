@@ -7,7 +7,7 @@ Frontend developer (beginner)
 ## Contact information
 
 **Phone number:** +7 (931) 988 05 84  
-**E-mail:** chikobum@mail.ru  
+**E-mail:** natarich18@gmail.com  
 **Telegram:** @pchelanataly  
 
 - - - - 
