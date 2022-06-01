@@ -35,4 +35,13 @@ function sum (a, b) {
 function multyply (a;b) {      
     return a*b;  
 }  
-``
+```
+## Education
+
++ Siberian University of Consumer Cooperation
+  + Specialist of Science in Commerce
+
++ Courses:
+  + [HTML Academy](https://htmlacademy.ru/intensive/htmlcss)
+
+- - - - -
