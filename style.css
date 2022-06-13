@@ -1,0 +1,137 @@
+*{
+    box-sizing:border-box;
+}
+body {
+    width: 100%;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.first-column {
+    width: 400px;
+}
+
+.second-column {
+    width: 800px;
+}
+
+.header { 
+    width: 100%;
+    background-color: #333f48;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.info-header{
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    width: 500px;
+    margin: 50px auto 45px;
+    position: relative;
+    z-index: 2;
+}
+.full-name,
+.profession {
+    color: #f3e500;
+}
+
+.full-name{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+.main {
+    display: flex;
+}
+
+.contact-list ul {
+    list-style: none;
+}
+
+.contact-block {
+    display: flex;
+    align-items: center; 
+}
+
+.contact-block-telegram {
+    margin-top: 15px;
+}
+
+.contact-image {
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+} 
+
+.cources-block-link {
+    margin-top: 20px;
+}
+
+.telegram-address, .academy-address, .code-basics-address {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
+
+.first-column-block-education p {
+    margin-left: 32px;
+}
+
+.contact-image-location {
+    background-image: url(./images/icons/location.svg);
+} 
+
+.contact-image-phone {
+    background-image: url(./images/icons/phone.svg);
+}
+
+.contact-image-mail {
+    background-image:url(./images/icons/mail.svg);
+}
+
+.contact-image-telegram {
+    background-image: url(./images/icons/telegram.svg);
+}
+
+.code-example-function {
+    background-color: #333f48;
+    color: #ffffff;
+}
+
+footer {
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color:#dddadd;
+}
+.footer-year{
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.github-address {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
